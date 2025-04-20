@@ -4,21 +4,27 @@
 
 ---
 
-## Table of Contents
+## Preview 🖼️
+![Screenshot 2025-04-20 154616](https://github.com/user-attachments/assets/878e5e36-bf0e-4c14-8dab-463dfe423028)
 
-- [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Configuration](#configuration)  
-- [Fun & Surprising Facts About Color](#fun--surprising-facts-about-color)  
-- [Insights into Color and Color Blindness](#insights-into-color-and-color-blindness)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Acknowledgements](#acknowledgements)  
 
 ---
 
-## Features
+## Table of Contents 📚
+
+- [Features✨](#features)  
+- [Installation💻](#installation)  
+- [Usage🚀](#usage)  
+- [Configuration⚙️](#configuration)  
+- [Fun & Surprising Facts About Color🎨](#fun--surprising-facts-about-color)  
+- [Insights into Color and Color Blindness🧠](#insights-into-color-and-color-blindness)  
+- [Contributing🤝](#contributing)  
+- [License📝](#license)  
+- [Acknowledgements🙏](#acknowledgements)  
+
+---
+
+## Features✨
 
 - Real-time sampling at **60 FPS** (adjustable)  
 - **Nearest color match** using perceptual HSV distance  
@@ -31,7 +37,7 @@
 
 ---
 
-## Installation
+## Installation💻
 
 *No separate `requirements.txt`. Dependencies are installed inline.*
 
@@ -50,7 +56,7 @@ pip install pynput mss pillow customtkinter
 
 ---
 
-## Usage
+## Usage🚀
 
 ```bash
 # Launch the application
@@ -63,7 +69,7 @@ python main.py
 
 ---
 
-## Configuration
+## Configuration⚙️
 
 Edit the `APP_CONFIG` dictionary in `main.py` to customize:
 
@@ -75,7 +81,7 @@ Edit the `APP_CONFIG` dictionary in `main.py` to customize:
 
 ---
 
-## Fun & Surprising Facts About Color
+## Fun & Surprising Facts About Color🎨
 
 - **Blue Didn’t Exist (Linguistically)**  
   Some ancient cultures, like the Himba tribe in Namibia or the ancient Greeks, had no word for "blue" and likely didn't perceive it as distinct. Homer described the ocean as "wine-dark."
@@ -109,7 +115,7 @@ Edit the `APP_CONFIG` dictionary in `main.py` to customize:
 
 ---
 
-## Insights into Color and Color Blindness
+## Insights into Color and Color Blindness🧠
 
 ### 🧬 Evolution and Genetics
 
@@ -136,19 +142,19 @@ Edit the `APP_CONFIG` dictionary in `main.py` to customize:
 
 ---
 
-## Contributing
+## Contributing🤝
 
 Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
 
 ---
 
-## License
+## License📝
 
 [MIT License](LICENSE)
 
 ---
 
-## Acknowledgements
+## Acknowledgements🙏
 
 - Developed with gratitude for the colorblind community  
 - Powered by Python and open-source libraries: `pynput`, `mss`, `pillow`, and `customtkinter`  
