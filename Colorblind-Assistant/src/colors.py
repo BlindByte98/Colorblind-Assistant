@@ -105,7 +105,7 @@ COLORS = {
     "venetian_red": ((200, 8, 21), "Red"),
     # Green tones (including emerald and jade)
     "green": ((0, 255, 0), "Green"),
-    "lime": ((0, 255, 0), "Green"),
+    "lime_green": ((0, 255, 50), "Green"),
     "forest_green": ((34, 139, 34), "Green"),
     "dark_green": ((0, 100, 0), "Green"),
     "olive": ((128, 128, 0), "Green"),
@@ -155,6 +155,7 @@ COLORS = {
     "zaffre": ((0, 20, 168), "Blue"),
     "lapis_lazuli": ((38, 97, 156), "Blue"),
     "egyptian_blue": ((16, 52, 166), "Blue"),
+    "turquoise": ((64, 224, 208), "Blue"),
     # Yellow tones (including gold and amber)
     "yellow": ((255, 255, 0), "Yellow"),
     "gold": ((255, 215, 0), "Yellow"),
